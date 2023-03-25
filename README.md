@@ -1,2 +1,2 @@
 # brindevoix
-des brins d idees portes par quelques brins de voix
+quelques brins d idees portes par un brin de voix
